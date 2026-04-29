@@ -181,10 +181,3 @@ Possible improvements include:
 - Add an interactive prediction input
 - Convert the notebook into a complete machine learning report
 
-## Author
-
-Created as a beginner-friendly Machine Learning project using Python and scikit-learn.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
